@@ -11,4 +11,6 @@ Aşağıdaki teknolojiler hakkında bilgimi ve pratiğimi gelişirmek istiyorum.
 
 PHP, MySQL, Yii, JQuery, Node.js, Angular.js, Phyton, Django, etc.
 
+blah blah
+
 
